@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="week-6-consumer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/week_6_consumer_jar</output-path>
+    <root id="archive" name="week-6-consumer.jar">
+      <element id="module-output" name="week-6-consumer" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.26/slf4j-api-1.7.26.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/rabbitmq/amqp-client/5.7.1/amqp-client-5.7.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
